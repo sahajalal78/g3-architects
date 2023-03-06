@@ -1,0 +1,38 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* navigation styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 695px;
+}
+.nav-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #131313;
+    margin-top: 50px;
+    margin-left: 228px;
+}
+
+.nav-items {
+    color: #424242;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+}
+.nav-items ul{
+    display: flex;
+    margin-top: 63px;
+    margin-right: 255px;
+    
+}
+ul li{
+    list-style: none;
+    margin-right: 35px;
+
+}
